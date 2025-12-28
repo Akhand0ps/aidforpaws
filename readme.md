@@ -1,4 +1,4 @@
-# Pet Shelter Donation Portal (MERN)
+# aidforpows
 
 A full-stack MERN application for a pet shelter donation system. Users can browse animals, donate securely, and admins can manage animals and view donations.
 
